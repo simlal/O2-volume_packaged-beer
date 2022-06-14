@@ -19,6 +19,8 @@
 |----|----|---------------|----------|--------|-------------|
 |NF  |1670|     2,48      |   498,0  |   62,7 |     2,57    |
 
+**test dataset fname : o2-vol-3beers-1668-1670-1671_full.csv**
+
 ## Useful information :
 - Empty can weight (hard print) = 15.8 g
 - -/+ 3% of labelled volume range for true volume of beer in package ([CFIA laws](https://inspection.canada.ca/exigences-en-matiere-d-etiquetage-des-aliments/etiquetage/industrie/exigences-en-matiere-d-etiquetage-des-boissons-alc/fra/1392909001375/1392909133296?chap=0))
