@@ -14,7 +14,7 @@
 ---
 
 ## The test dataset : 
-csv file from recorded data of 3 experiments with following template :
+.csv file from recorded data of 3 experiments with following template :
 |Beer|Lot |Density (Plato)|weight (g)|O2 (ppb)|CO2 (vol/vol)|
 |----|----|---------------|----------|--------|-------------|
 |NF  |1670|     2,48      |   498,0  |   62,7 |     2,57    |
@@ -22,6 +22,7 @@ csv file from recorded data of 3 experiments with following template :
 ## Useful information :
 - Empty can weight (hard print) = 15.8 g
 - -/+ 3% of labelled volume range for true volume of beer in package ([CFIA laws](https://inspection.canada.ca/exigences-en-matiere-d-etiquetage-des-aliments/etiquetage/industrie/exigences-en-matiere-d-etiquetage-des-boissons-alc/fra/1392909001375/1392909133296?chap=0))
+- [Water density @ 20C](https://collett.atmos.colostate.edu/classes/AT560/2007/water-density.pdf) From Handbook of Chemistry
 
 --- 
 
