@@ -1,9 +1,9 @@
-# Exploration of relationship between dissolved oxygen (DO or O2) readings and packaged beer volume using test dataset of 3 different lots of beers from Siboire craft brewery using Kaggle cloud computational environment with a Jupyter notebook. 
+# Exploration of relationship between dissolved oxygen (DO or O2) readings and packaged beer volume using test dataset of 3 different lots of beers from a Québec craft brewery using Kaggle cloud computational environment with a Jupyter notebook. 
 ---------
 ## The beers :
 
 - [Notre Folie](https://siboire.ca/fr/boutique/bieres/3968024-notre-folie-100-qc/)
-- [IPA Test #96](https://siboire.ca/fr/boutique/bieres/4847087-ipa-test-96-citra-spectrum-citra-lupomax-citra/)
+- [IPA Test #96](https://untappd.com/b/siboire-microbrasserie-ipa-test-96-citra-spectrum-citra-lupomax-citra/4847087)
 - [Inspiration](https://siboire.ca/fr/boutique/bieres/213673-inspiration/)
 
 ## The measurements :
@@ -29,5 +29,5 @@
 --- 
 
 ## Question
-<code style="background:yellow;color:red">**Is there relationship between dissolved O2 levels and volume of beer in final package?**</code>
+<code style="background:yellow;color:red">**Is there relationship between dissolved O2 levels and volume of beer in final package? Could we estimate O2 levels from volume of beer in package?**</code>
 ***
